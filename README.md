@@ -1,5 +1,6 @@
 # Ultimate-Tic-Tac-Toe (linguagem C)
-## Tópicos de Explicação e Organização do Programa
+## Tópicos de Explicação e Organização do Programa 
+  (detalhes mais completos no relatório)
 
   Inicialmente, para o desenvolvimento do programa, foi importante pensar numa estratégia fácil e adequada à criação dos mini tabuleiros e do tabuleiro grande. A estratégia utlizada basou-se na criação de um vetor alocado dinamicamente, com tamanho 9 e “dentro” de cada posição do vetor criar uma estrutura com uma matriz 3x3, para representar o mini tabuleiro, e ainda, uma variável do tipo inteiro que assume um valor caso a matriz se encontre totalmente preenchida e outro caso isso não se verifique. 
 
@@ -49,4 +50,3 @@
   
    ![](imagens_projeto/Imagem10.png)
   
-(detalhes mais completos no relatório)
