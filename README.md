@@ -1,4 +1,4 @@
 # Ultimate-Tic-Tac-Toe (linguagem C)
 
-##Menu Inicial
+## Menu Inicial
 ![](imagens_projeto/Imagem1.png)
